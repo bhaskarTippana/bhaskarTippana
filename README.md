@@ -8,7 +8,7 @@
 <h2 align="center" style="color:#007acc;">🛠️ Tech Stack & Skills</h2>
 
 <!-- Frontend -->
-<h3 style="color:#58a6ff;">🌐 Frontend</h3>
+<h3>🌐 Frontend</h3>
 <div style="background-image: url('https://via.placeholder.com/1200x100.png/ffffff/ffffff'); padding:10px; border-radius:8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactJS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
@@ -21,7 +21,7 @@
 </div>
 
 <!-- Backend -->
-<h3 style="color:#58a6ff;">🔧 Backend</h3>
+<h3>🔧 Backend</h3>
 <div style="background-color:#F5F7FA; padding:10px; border-radius:8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="ExpressJS" width="40" height="40"/>
@@ -30,14 +30,14 @@
 </div>
 
 <!-- Databases -->
-<h3 style="color:#58a6ff;">🛢️ Databases</h3>
+<h3>🛢️ Databases</h3>
 <div style="background-color:#F5F7FA; padding:10px; border-radius:8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
 </div>
 
 <!-- Cloud & DevOps -->
-<h3 style="color:#58a6ff;">☁️ Cloud & DevOps</h3>
+<h3>☁️ Cloud & DevOps</h3>
 <div style="background-color:#F5F7FA; padding:10px; border-radius:8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="40" height="40"/>
@@ -51,7 +51,7 @@
 </div>
 
 <!-- Tools -->
-<h3 style="color:#58a6ff;">🧰 Tools & Platforms</h3>
+<h3>🧰 Tools & Platforms</h3>
 <div style="background-color:#F5F7FA; padding:10px; border-radius:8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
